@@ -1,0 +1,85 @@
+*************************************************************
+FileName = UNO.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : UNO.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+*************************************************************
+Generating : board outline
+      File : UNO.GM28
+
+    Adding Layer      : board outline
+
+*************************************************************
+Generating : Top Paste
+      File : UNO.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+*************************************************************
+Generating : Manufacturing Notes
+      File : UNO.GM3
+
+    Adding Layer      : Manufacturing Notes
+
+*************************************************************
+Generating : ASSEMBLY DRAW
+      File : UNO.GM2
+
+    Adding Layer      : ASSEMBLY DRAW
+
+*************************************************************
+Generating : L1
+      File : UNO.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+*************************************************************
+Generating : Licence
+      File : UNO.GM4
+
+    Adding Layer      : Licence
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UNO.GBO
+
+    Adding Layer      : Bottom Overlay
+
+*************************************************************
+Generating : L2
+      File : UNO.GBL
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+*************************************************************
+Generating : Bottom Solder
+      File : UNO.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+*************************************************************
+Generating : Top Overlay
+      File : UNO.GTO
+
+    Adding Layer      : Top Overlay
+
